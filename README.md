@@ -1,4 +1,0 @@
-# hhplus-java-tdd
-
----
-
